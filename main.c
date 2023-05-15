@@ -5,7 +5,7 @@
  * Author : dell
  */ 
 
-#include "APP/Smart_Home/Smart_Home.h"
+#include "APP/Smart_Home.h"
 
 
 int main(void)
