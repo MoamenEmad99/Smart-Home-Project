@@ -7,17 +7,17 @@
 /************************************************************************/
 /*                        All HAL Layer Includes                        */
 /************************************************************************/
-#include "../../HAL/Buzzer/Buzzer.h"
-#include "../../HAL/Fingerprint/Fingerprint.h"
-#include "../../HAL/FAN/FAN.h"
-#include "../../HAL/LED/LED.h"
-#include "../../HAL/LM35/LM35.h"
-#include "../../HAL/OLED/config_Oled.h"
-#include "../../HAL/RFID/RFID_Interface.h"
-#include "../../HAL/Servo/Servo.h"
-#include "../../HAL/Ultrasonic/ultrasonic.h"
-#include "../../HAL/Push_Buton/Button.h"
-#include "../../HAL/DELAY/DELAY.h"
+#include "../HAL/Buzzer/Buzzer.h"
+#include "../HAL/Fingerprint/Fingerprint.h"
+#include "../HAL/FAN/FAN.h"
+#include "../HAL/LED/LED.h"
+#include "../HAL/LM35/LM35.h"
+#include "../HAL/OLED/config_Oled.h"
+#include "../HAL/RFID/RFID_Interface.h"
+#include "../HAL/Servo/Servo.h"
+#include "../HAL/Ultrasonic/ultrasonic.h"
+#include "../HAL/Push_Buton/Button.h"
+#include "../HAL/DELAY/DELAY.h"
 #include "Smart_Home.h"
 
 /************************************************************************/

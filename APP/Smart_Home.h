@@ -9,7 +9,7 @@
 #ifndef SMART_HOME_H_
 #define SMART_HOME_H_
 
-#include "../../LIB/Datatypes.h"
+#include "../LIB/Datatypes.h"
 
 
 #define SYSTEM_OFF				(0)
